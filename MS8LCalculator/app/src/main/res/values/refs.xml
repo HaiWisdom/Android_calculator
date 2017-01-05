@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="screen_backgroun">#CDDC39</drawable>
+    <drawable name="button_background">#795548</drawable>
+    <drawable name="text_color">#212121</drawable>
+    <drawable name="background">#607D8B</drawable>
+    <drawable name="background1">#757575</drawable>
+</resources>
